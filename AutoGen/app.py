@@ -51,4 +51,3 @@ user_proxy.initiate_chat(
 #     assistant,
 #     message=task2
 # )
-# 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
